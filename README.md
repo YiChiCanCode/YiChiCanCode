@@ -2,7 +2,7 @@
 
 
 ### About me 
-- Born in Taoyuan, Taiwan :taiwan:
+- Born in Taoyuan, Taiwan 台湾
 - Raised in Shenzhen, China :cn: 
 - Currentily studning CS+Math in Chicago, US :us: 
 - Loves (Healthy) Technology :keyboard: 
