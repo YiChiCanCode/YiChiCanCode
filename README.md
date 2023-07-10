@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hi! My name is Chaplin 👋 
+
+
+### About me 
+Born in Taoyuan, Taiwan （台湾）
+Raised in Shenzhen, China
+Currentily studning CS+Math in Chicago, US
+Loves (Healthy) Technology
+Musician Influencer 
+Addict of Machine Learning, Psychology, and Coffee
+
 
 <!--
 **YiChiCanCode/YiChiCanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
