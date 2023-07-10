@@ -2,12 +2,12 @@
 
 
 ### About me 
-Born in Taoyuan, Taiwan （台湾）
-Raised in Shenzhen, China
-Currentily studning CS+Math in Chicago, US
-Loves (Healthy) Technology
-Musician Influencer 
-Addict of Machine Learning, Psychology, and Coffee
+Born in Taoyuan, Taiwan :taiwan: <br>
+Raised in Shenzhen, China :cn: <br>
+Currentily studning CS+Math in Chicago, US :us: <br>
+Loves (Healthy) Technology :keyboard: <br>
+Musician Influencer :studio_microphone: <br>
+Addict of Machine Learning :infinity:  Psychology :brain: and Coffee :coffee: <br>
 
 
 <!--
