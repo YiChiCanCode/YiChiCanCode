@@ -24,6 +24,11 @@
 - Golang
 - DrRacket
 
+### Ongoing Projects
+- Real-Time Market Data Dashboard
+- Simple Algorithmic Trading Bot
+- Market Sentiment Analysis Tool
+- Note taking automation
 
 <!--
 **YiChiCanCode/YiChiCanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
