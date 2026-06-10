@@ -9,7 +9,7 @@
 - Addict of Machine Learning :infinity:  Psychology :brain: and Coffee :coffee: 
 
 ### Career & Other Fun Stuff
-- 2+ years of internship experience (startups & big tech companies)
+- 4+ years of industry experience (startups & big tech companies)
 - Love to Hack stuff that saves people's time
 - Looking for open source projects
 - ~50,000 subscribers cross-platform for my music account
